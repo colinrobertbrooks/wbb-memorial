@@ -21,14 +21,14 @@ const Name = styled.h1`
   font-family: ${typography.serif};
   font-size: ${getRems(66)};
   line-height: 0.95;
-  text-shadow: -1px 0px 1px ${colors.teal};
+  text-shadow: -1px 0px 1px ${colors.lightGray};
 `;
 
 const Dates = styled.span`
   color: ${colors.white};
   font-family: ${typography.sansSerif};
   font-size: ${getRems(33)};
-  text-shadow: -1px 0px 1px ${colors.teal};
+  text-shadow: -1px 0px 1px ${colors.lightGray};
 `;
 
 const Intro = () => {

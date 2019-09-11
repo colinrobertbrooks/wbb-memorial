@@ -5,7 +5,7 @@ import Button from "./styled/Button";
 import { colors } from "../styles";
 
 const Wrapper = styled.footer`
-  background-color: ${colors.dark};
+  background-color: ${colors.darkGray};
   padding: 120px 30px;
   text-align: center;
 `;

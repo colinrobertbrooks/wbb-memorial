@@ -16,7 +16,7 @@ const Title = styled.h2`
 `;
 
 const Subtitle = styled.h3`
-  color: ${colors.dark};
+  color: ${colors.darkGray};
   font-family: ${typography.serif};
   margin-top: 20px;
 `;
