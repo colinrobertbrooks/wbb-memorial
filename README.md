@@ -8,7 +8,7 @@
 
 `$ npm build`
 
-To run the build locally, run `serve -s dist` and open http://localhost:5000 (`serve` must be installed globally).
+To run the build locally, run `serve -s build` and open http://localhost:5000 (`serve` must be installed globally).
 
 ## Deploy
 
