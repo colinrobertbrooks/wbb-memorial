@@ -37,10 +37,7 @@ const Memorial = () => (
         <Subtitle>Parking</Subtitle>
         <p>
           The{" "}
-          <a
-            href="https://goo.gl/maps/3AvmTXyPkWyrCcVN6"
-            style={{ color: colors.teal }}
-          >
+          <a href="https://goo.gl/maps/3AvmTXyPkWyrCcVN6">
             Hanover Crew Boathouse
           </a>{" "}
           is located on Route 10 North just south of Wilson’s Landing. There is

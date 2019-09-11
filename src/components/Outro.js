@@ -13,10 +13,6 @@ const Wrapper = styled.footer`
 const Donations = styled.p`
   color: ${colors.white};
   margin-top: 30px;
-
-  a {
-    color: ${colors.teal};
-  }
 `;
 
 const Outro = () => (
