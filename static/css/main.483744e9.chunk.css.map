@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,gBAGE,WACF,CAEA,KACE,eAAgB,CAChB,kCAAmC,CACnC,iCACF","file":"main.483744e9.chunk.css","sourcesContent":["html,\nbody,\n#root {\n  height: 100%;\n}\n\nbody {\n  min-width: 320px;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n"]}

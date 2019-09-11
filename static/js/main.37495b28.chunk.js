@@ -1,2 +1,0 @@
-(window["webpackJsonpwbb-memorial"]=window["webpackJsonpwbb-memorial"]||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),l=t(2);var o=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement("h1",null,"Blair Brooks"),r.a.createElement("h2",null,"1953 - 2019"),r.a.createElement("p",null,"Coming soon..."))};t.n(l).a.render(r.a.createElement(o,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.37495b28.chunk.js.map
