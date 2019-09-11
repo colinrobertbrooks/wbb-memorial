@@ -18,7 +18,6 @@ const Title = styled.h2`
 const Subtitle = styled.h3`
   color: ${colors.darkGray};
   font-family: ${typography.serif};
-  margin-top: 20px;
 `;
 
 const Memorial = () => (
@@ -30,9 +29,9 @@ const Memorial = () => (
           A celebration of Blair‘s life will take place on{" "}
           <b>Sunday, September 22 at 2 PM</b> at the Hanover Crew Boathouse at
           Fullington Farm. In keeping with Quaker tradition, people are invited
-          to briefly share their memories of Blair following the program. The
-          celebration will be held in a tent, followed by refreshments inside
-          the boathouse.
+          to briefly share their memories of Blair as part of the program. The
+          celebration will be held outside under a tent, followed by
+          refreshments inside the boathouse.
         </p>
         <Subtitle>Parking</Subtitle>
         <p>

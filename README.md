@@ -1,4 +1,4 @@
-# Blair Brooks Memorial
+# Blair Brooks (1953 - 2019)
 
 ## Development
 
