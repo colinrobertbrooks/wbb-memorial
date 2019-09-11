@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import { Row, Col, Button } from "reactstrap";
+import { Row, Col } from "reactstrap";
+import Button from "./styled/Button";
 import { colors, typography } from "../styles";
 import parkingImage from "../images/parking.png";
 
@@ -52,12 +53,7 @@ const Memorial = () => (
             <p className="lead">Kendall Riverfront Park</p>
             <Button
               href="https://goo.gl/maps/HXXy64qKdFgbuPN3A"
-              color="info"
               className="mb-3"
-              style={{
-                fontFamily: typography.sansSerif,
-                textTransform: "uppercase"
-              }}
             >
               Directions
             </Button>
@@ -66,12 +62,7 @@ const Memorial = () => (
             <p className="lead">Richmond Middle School</p>
             <Button
               href="https://goo.gl/maps/TLfeynkXfbDC3cDX9"
-              color="info"
               className="mb-3"
-              style={{
-                fontFamily: typography.sansSerif,
-                textTransform: "uppercase"
-              }}
             >
               Directions
             </Button>

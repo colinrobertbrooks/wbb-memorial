@@ -1,7 +1,8 @@
 import React from "react";
 import styled from "styled-components";
-import { Row, Col, Button } from "reactstrap";
-import { colors, typography } from "../styles";
+import { Row, Col } from "reactstrap";
+import Button from "./styled/Button";
+import { colors } from "../styles";
 
 const Wrapper = styled.footer`
   background-color: ${colors.dark};
@@ -25,12 +26,7 @@ const Outro = () => (
         <Button
           href="https://www.knightfuneralhomes.com/obituary/blair-brooks"
           outline
-          color="info"
           size="lg"
-          style={{
-            fontFamily: typography.sansSerif,
-            textTransform: "uppercase"
-          }}
         >
           Obituary
         </Button>
