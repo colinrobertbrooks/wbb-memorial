@@ -30,7 +30,7 @@ const Memorial = () => (
           A celebration of Blair‘s life will take place on{" "}
           <b>Sunday, September 22 at 2 PM</b> at the Hanover Crew Boathouse at
           Fullington Farm. In keeping with Quaker tradition, people are invited
-          to share their memories of Blair following the program. The
+          to briefly share their memories of Blair following the program. The
           celebration will be held in a tent, followed by refreshments inside
           the boathouse.
         </p>
@@ -68,8 +68,9 @@ const Memorial = () => (
         <p>
           You're welcome to drop people off at the boathouse and then park in
           one of the designated lots. If necessary, there is additional parking
-          at the Garapay lot off of the first traffic circle before you get to
-          the Richmond Middle School.
+          at the <a href="https://goo.gl/maps/edFKJgXoqJrFzopK6">Garapay lot</a>{" "}
+          off of the first traffic circle before you get to the Richmond Middle
+          School.
         </p>
         <img src={parkingImage} alt="Parking map" className="img-thumbnail" />
       </Wrapper>
