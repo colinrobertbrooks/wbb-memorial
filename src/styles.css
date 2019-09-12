@@ -1,0 +1,18 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  min-width: 320px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p a:link,
+p a:visited,
+p a:hover,
+p a:active {
+  color: #17a2b8; /* teal */
+}
